@@ -1,6 +1,6 @@
 -  Hi, I’m @Loremoru
 -  I’m interested in writing algorythms
--  I’m currently learning (at least trying to learn) cpp
+-  I’m currently learning Go
   
 
 <!---
